@@ -1,0 +1,11 @@
+vnpy_ctastrategy
+vnpy_ctabacktester
+vnpy_ctp
+vnpy_datamanager
+vnpy_mongodb
+vnpy_sqlite
+vnpy_rqdata
+vnpy_tts
+vnpy_tushare
+vnpy_sqlite
+vnpy_wind
